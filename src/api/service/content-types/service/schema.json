@@ -47,6 +47,24 @@
       },
       "type": "richtext",
       "required": true
+    },
+    "postSummary": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "richtext"
+    },
+    "postTitle": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "string",
+      "required": true,
+      "unique": true
     }
   }
 }
