@@ -17,7 +17,8 @@
     "@strapi/provider-upload-cloudinary": "4.5.1",
     "@strapi/strapi": "4.5.1",
     "better-sqlite3": "7.4.6",
-    "pg": "8.7.3"
+    "pg": "8.7.3",
+    "strapi-plugin-populate-deep": "^1.1.2"
   },
   "author": {
     "name": "A Strapi developer"
