@@ -83,6 +83,14 @@
       },
       "type": "datetime",
       "required": true
+    },
+    "seoKeyWords": {
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "type": "text"
     }
   }
 }
